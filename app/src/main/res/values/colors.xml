@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightblue">#39add1</color>
+    <color name="dblue">#0038FF</color>
+    <color name="Lightred">#c25975</color>
+    <color name="red">#e15258</color>
+    <color name="orange">#f9845b</color>
+    <color name="lavendar">#838cc7</color>
+    <color name="purple">#7d669e</color>
+    <color name="aqua">#53bbb4</color>
+    <color name="green">#51b46d</color>
+    <color name="dgray">#637a91</color>
+    <color name="pink">#f092b0</color>
+</resources>
+
+<!--    "#39add1", // light blue-->
+<!--    "#3079ab", // dark blue-->
+<!--    "#c25975", // mauve-->
+<!--    "#e15258", // red-->
+<!--    "#f9845b", // orange-->
+<!--    "#838cc7", // lavender-->
+<!--    "#7d669e", // purple-->
+<!--    "#53bbb4", // aqua-->
+<!--    "#51b46d", // green-->
+<!--    "#e0ab18", // mustard-->
+<!--    "#637a91", // dark gray-->
+<!--    "#f092b0", // pink-->
+<!--    "#b7c0c7" //-->
